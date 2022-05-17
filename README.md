@@ -8,6 +8,7 @@ See also: [awesome](https://github.com/sindresorhus/awesome), [awesome-minecraft
 # Contents
 - [Mods for Java Edition](#mods-for-java-edition)
 - [Mods for Bedrock Edition](#mods-for-bedrock-edition)
+- [OS'](#os)
 - [External Tools](#external-tools)
 - [Games](#games)
 
