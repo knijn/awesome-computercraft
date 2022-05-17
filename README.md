@@ -19,6 +19,9 @@ See also: [awesome](https://github.com/sindresorhus/awesome), [awesome-minecraft
 # Mods for Bedrock Edition
 - [CC Tweaked](https://github.com/SquidDev-CC/bedrock) - Proof-of-concept add-on for Minecraft Windows 10 Edition. Not recommended for serious use at the moment.
 
+# OS'
+- [PotatOS](https://potatos.madefor.cc/) - An OS made by gollark
+
 # External Tools
 - [CCEmuX](https://emux.cc/) - Modular ComputerCraft emulator that runs on Java. Supports both the original ComputerCraft mod as well as CC Tweaked.
 - [copy-cat](https://github.com/SquidDev-CC/copy-cat) - Emulator for ComputerCraft that works right out of the browser.
